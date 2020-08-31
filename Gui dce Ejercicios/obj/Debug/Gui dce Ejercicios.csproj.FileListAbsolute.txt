@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Gui dce Ejercicios\bin\Debug\Gui dce Ejercicios.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Gui dce Ejercicios\bin\Debug\Gui dce Ejercicios.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Gui dce Ejercicios\bin\Debug\Gui dce Ejercicios.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Gui dce Ejercicios\obj\Debug\Gui dce Ejercicios.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Gui dce Ejercicios\obj\Debug\Gui dce Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Gui dce Ejercicios\obj\Debug\Gui dce Ejercicios.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Gui dce Ejercicios\obj\Debug\Gui dce Ejercicios.pdb

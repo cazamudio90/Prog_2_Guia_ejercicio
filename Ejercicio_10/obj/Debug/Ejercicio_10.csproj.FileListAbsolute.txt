@@ -1,0 +1,6 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Ejercicio_10\bin\Debug\Ejercicio_10.exe.config
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Ejercicio_10\bin\Debug\Ejercicio_10.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Ejercicio_10\bin\Debug\Ejercicio_10.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Ejercicio_10\obj\Debug\Ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Ejercicio_10\obj\Debug\Ejercicio_10.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion 2\Ejercicio_1\Ejercicio_10\obj\Debug\Ejercicio_10.pdb
